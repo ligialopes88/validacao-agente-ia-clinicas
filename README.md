@@ -3,7 +3,7 @@
 **Case de Product Discovery · Metodologias Ágeis e Validação de Produtos · UniFECAF**
 Parte Prática: experimento real de validação · Lígia Lopes
 
-🎥 **Vídeo pitch:** [assistir no YouTube](COLE_AQUI_O_LINK)
+🎥 **Vídeo pitch:** [assistir no YouTube](https://youtu.be/QTX9iRVXw8Y)
 📄 **Parte Teórica:** [docs/Parte-Teorica.pdf](docs/Parte-Teorica.pdf)
 
 ---
