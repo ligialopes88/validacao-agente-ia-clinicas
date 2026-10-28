@@ -4,7 +4,7 @@
 Parte Prática: experimento real de validação · Lígia Lopes
 
 🎥 **Vídeo pitch:** [assistir no YouTube](https://youtu.be/QTX9iRVXw8Y)
-📄 **Parte Teórica:** [docs/Parte-Teorica.pdf](docs/Parte-Teorica.pdf)
+📄 **Parte Teórica:** [Parte Teórica (PDF)](docs/Metodologia__geis_-_Parte_teorica.pdf)
 
 ---
 
